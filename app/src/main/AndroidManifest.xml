@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.harisjaved.ecommerceapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_app_rounded_square"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_app_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ECommerceApp">
+        <activity
+            android:name=".activities.PaymentActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.AddAddressActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AddAddressActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.AddressActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.CartActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.ShowAllActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.DetailedActivity"
+            android:exported="true" />
+        <activity android:name=".activities.OnBoardingActivity" />
+        <activity android:name=".activities.RegistrationActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activities.LoginActivity" />
+        <activity android:name=".activities.MainActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.razorpay.ApiKey"
+            android:value="rzp_test_p1ZQWvDf1IQEeC" />
+    </application>
+
+</manifest>

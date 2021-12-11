@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708713988006",
+    "project_id": "ecommerce-app-ea3f4",
+    "storage_bucket": "ecommerce-app-ea3f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708713988006:android:98fd21e0bdcd801ebe5967",
+        "android_client_info": {
+          "package_name": "com.harisjaved.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708713988006-b61boao8n9sefm50256vg9lr62ghger3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsQgx5XYGI2A5NzFlDNRFpQX1wy4xjqXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708713988006-b61boao8n9sefm50256vg9lr62ghger3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
