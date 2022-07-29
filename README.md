@@ -1,6 +1,6 @@
 # eCommerce App - A work of Haris Javed
 
-This project was created following 4 weeks of training in Android App Development at Prutor.AI. Try out the project for yourself: https://bit.ly/3rkEURr.
+This project was created following 4 weeks of training in Android App Development at Prutor.AI. Try out the project for yourself: https://bit.ly/3FWmQkC.
 
 ## Project Details
 
@@ -23,4 +23,4 @@ Onboarding Screen             |  Signup Screen             |   Home Screen
 
 Product Detail Screen             |  Cart Screen             |   Address Selection Screen
 :-------------------------:|:-------------------------:|:-------------------------:
-![S6](https://user-images.githubusercontent.com/72334266/181777705-4a9928a1-3cc4-4f8b-bd3d-0b392e0304db.jpg)  |  !![S1](https://user-images.githubusercontent.com/72334266/181776247-56e29f49-749d-4c7d-b798-7a9ed3827ff6.jpg)  |  ![S5](https://user-images.githubusercontent.com/72334266/181777684-efe8b9a2-871d-4b56-9b2e-61e0b24716fc.jpg)
+![S6](https://user-images.githubusercontent.com/72334266/181777705-4a9928a1-3cc4-4f8b-bd3d-0b392e0304db.jpg)  |  ![S1](https://user-images.githubusercontent.com/72334266/181776247-56e29f49-749d-4c7d-b798-7a9ed3827ff6.jpg)  |  ![S5](https://user-images.githubusercontent.com/72334266/181777684-efe8b9a2-871d-4b56-9b2e-61e0b24716fc.jpg)
