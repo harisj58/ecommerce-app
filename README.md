@@ -6,6 +6,8 @@ This project was created following 4 weeks of training in Android App Developmen
 
 ### Tech Stack:
 Android Studio using Java with Firebase
+<p align="left">
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/512px-Android_Studio_Icon_3.6.svg.png?20210301045217" alt="android_studio" width="40" height="40"/> </a><a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a></p>
 
 ### Description:
 
